@@ -7,3 +7,6 @@
 body {
     background-color: lightgray
 }
+.Tweet {
+    line-height: 30px;
+}
